@@ -62,7 +62,3 @@ These datasets contain:
 - Candidate information
 - Region mapping
 - Reserved constituency classification
-
-
-    ├── tn_2026_results.csv
-    └── constituency_master.csv
