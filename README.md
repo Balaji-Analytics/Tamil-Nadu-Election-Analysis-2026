@@ -10,7 +10,7 @@ This project transforms raw election data into meaningful analytical insights th
 
 # Dashboard Preview
 
-![Dashboard Preview](dashboard-preview.png)
+![Dashboard Preview](TN Election Dashboard.png)
 
 ---
 
