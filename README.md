@@ -53,7 +53,7 @@ This project transforms raw election data into meaningful analytical insights th
 The project uses Tamil Nadu election datasets including:
 
 - tn_2021_results.csv(https://github.com/Balaji-Analytics/Tamil-Nadu-Election-Analysis-2026/blob/d37b12a2c31408ca6dc081563d0cf4e53bf836fa/dataset/tn_2021_results.csv)
-- tn_2026_results.csv
+- tn_2026_results.csv(dataset/tn_2026_results.csv)
 - constituency_master.csv
 
 These datasets contain:
