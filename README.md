@@ -10,7 +10,7 @@ This project transforms raw election data into meaningful analytical insights th
 
 # Dashboard Preview
 
-![Dashboard Preview](TN Election Dashboard.png)
+![Dashboard Preview]([TN Election Dashboard.png](https://github.com/Balaji-Analytics/Tamil-Nadu-Election-Analysis-2026/blob/e7ba735d344ac85f509a72ba947a59321ddc9421/TN%20Election%20Dashboard.png))
 
 ---
 
