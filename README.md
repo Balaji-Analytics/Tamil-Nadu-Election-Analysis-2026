@@ -1,64 +1,137 @@
-# Tamil Nadu Election Analysis 2026 Dashboard
+Tamil Nadu Election Analysis 2026 Dashboard 🗳️📊
 
-## Project Overview
+Overview
 
-The Tamil Nadu Election Analysis 2026 Dashboard is an interactive Power BI project developed to analyze election-related trends, regional voting patterns, party-wise performance, and constituency-level insights using data visualization and storytelling techniques.
+The Tamil Nadu Election Analysis 2026 Dashboard is an interactive Power BI project created as part of the Codebasics Resume Project Challenge.
 
-This project transforms raw election data into meaningful analytical insights through modern dashboard design and interactive reporting.
+This project focuses on analyzing election-related trends, regional voting patterns, constituency performance, and party-wise vote distribution through interactive visualizations and data storytelling techniques.
 
----
-
-# Dashboard Preview
-
-![Dashboard Preview]([TN Election Dashboard.png](https://github.com/Balaji-Analytics/Tamil-Nadu-Election-Analysis-2026/blob/e7ba735d344ac85f509a72ba947a59321ddc9421/TN%20Election%20Dashboard.png))
+The dashboard transforms raw election data into meaningful analytical insights using Power BI, Power Query, and DAX.
 
 ---
 
-# Key Features
+Dashboard Preview
 
-- Interactive KPI Cards
-- Region-wise Vote Distribution
-- Party Vote Share Analysis
-- Seats Won by Party
-- Reserved vs General Constituency Analysis
-- Top Constituencies by Votes
-- Interactive Filter Panel
-- Insights & Storytelling Section
+![Dashboard Preview](TN Election Dashboard.png)
 
 ---
 
-# Tools & Technologies Used
+Project Objectives
 
-- Power BI
-- Power Query
-- DAX
-- Data Modeling
-- Data Visualization
-- Dashboard Design
+- Analyze regional voting patterns across Tamil Nadu
+- Compare party-wise vote share and seat distribution
+- Study reserved vs general constituency trends
+- Identify top-performing constituencies
+- Build an interactive and visually engaging dashboard
+- Present insights through data storytelling
 
 ---
 
-# Key Insights
+Dashboard Features
+
+✅ Interactive KPI Cards
+✅ Region-wise Vote Distribution
+✅ Party Vote Share Analysis
+✅ Seats Won by Party
+✅ Reserved vs General Constituency Analysis
+✅ Top Constituencies by Votes
+✅ Interactive Filter Panel
+✅ Insight-driven Dashboard Design
+
+---
+
+Tools & Technologies Used
+
+Tool| Purpose
+Power BI| Dashboard Development
+Power Query| Data Cleaning & Transformation
+DAX| KPI Calculations & Measures
+Data Modeling| Table Relationships
+Data Visualization| Interactive Reporting
+
+---
+
+Key Insights
 
 - TVK and DMK recorded strong vote shares across multiple regions.
 - South region showed high voting activity.
 - Chennai Metro displayed distinct voting patterns.
-- More than 100 political parties participated in the election.
+- More than 100 political parties participated in the election dataset.
 - Reserved constituencies demonstrated different vote distribution trends.
 
 ---
 
-# Dataset Information
+Dataset Information
 
-The project uses Tamil Nadu election datasets including:
+Datasets used in this project:
 
-- tn_2021_results.csv(https://github.com/Balaji-Analytics/Tamil-Nadu-Election-Analysis-2026/blob/d37b12a2c31408ca6dc081563d0cf4e53bf836fa/dataset/tn_2021_results.csv)
-- tn_2026_results.csv(https://github.com/Balaji-Analytics/Tamil-Nadu-Election-Analysis-2026/blob/9eb9688175566e321bb7ddf6c8f5a62545e768a0/dataset/tn_2026_results.csv))
-- constituency_master.csv (https://github.com/Balaji-Analytics/Tamil-Nadu-Election-Analysis-2026/blob/da5d4608be56c43b1716f1f1589f0874e793cb10/dataset/constituency_master.csv)
+- tn_2021_results.csv
+- tn_2026_results.csv
+- constituency_master.csv
 
-These datasets contain:
+The datasets contain:
+
 - Constituency details
-- Party-wise votes
 - Candidate information
+- Party-wise vote distribution
 - Region mapping
 - Reserved constituency classification
+
+---
+
+Project Structure
+
+Tamil-Nadu-Election-Analysis-2026
+│
+├── TN Election Dashboard.png
+├── TN_Election_Analysis.pbix
+├── TN_Election_Insights_Report_DarkTheme.docx
+├── README.md
+│
+└── dataset
+    ├── tn_2021_results.csv
+    ├── tn_2026_results.csv
+    └── constituency_master.csv
+
+---
+
+Skills Demonstrated
+
+- Data Visualization
+- Dashboard Design
+- Data Storytelling
+- Analytical Thinking
+- Power BI Development
+- Data Cleaning & Transformation
+- Interactive Reporting
+
+---
+
+Challenges Faced
+
+- Managing multiple datasets and relationships
+- Designing a balanced dashboard layout
+- Creating a consistent dark-theme design
+- Improving visual hierarchy and readability
+
+---
+
+Conclusion
+
+This project helped strengthen my Power BI dashboard development, visualization, and analytical storytelling skills while working on a real-world style election dataset.
+
+---
+
+Author
+
+Balaji
+
+Aspiring Data Analyst | Power BI Enthusiast
+
+GitHub
+
+https://github.com/Balaji-Analytics
+
+LinkedIn
+
+https://www.linkedin.com/in/balaji-nadar
