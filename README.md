@@ -12,7 +12,7 @@ The dashboard transforms raw election data into meaningful analytical insights u
 
 Dashboard Preview
 
-![Dashboard Preview](TN Election Dashboard.png)
+![Dashboard Preview](TN Election Dashboard.png)https://github.com/Balaji-Analytics/Tamil-Nadu-Election-Analysis-2026/blob/db6bd1305e94f522da5b14df7103fbce00fcf69a/TN%20Election%20Dashboard.png
 
 ---
 
